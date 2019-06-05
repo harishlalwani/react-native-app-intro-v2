@@ -1,0 +1,51 @@
+{
+  "_args": [
+    [
+      "react-native-app-intro-v2@2.1.2",
+      "C:\\React Native\\plugdreactapp"
+    ]
+  ],
+  "_from": "react-native-app-intro-v2@2.1.2",
+  "_id": "react-native-app-intro-v2@2.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-Wyvhd21wOEHy8uHndkGpH13DuSc=",
+  "_location": "/react-native-app-intro-v2",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-app-intro-v2@2.1.2",
+    "name": "react-native-app-intro-v2",
+    "escapedName": "react-native-app-intro-v2",
+    "rawSpec": "2.1.2",
+    "saveSpec": null,
+    "fetchSpec": "2.1.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-app-intro-v2/-/react-native-app-intro-v2-2.1.2.tgz",
+  "_spec": "2.1.2",
+  "_where": "C:\\React Native\\plugdreactapp",
+  "author": {
+    "name": "Sh1n1x",
+    "email": "cecc.anthony@gmail.com",
+    "url": "https://www.shinix.me"
+  },
+  "bugs": {
+    "url": "https://github.com/Sh1n1x/react-native-app-intro/issues"
+  },
+  "description": "react-native-app-intro is a react native plugin implementing a parallax effect welcome page using base on react-native-swiper , similar to the one found in Google's app like Sheet, Drive, Docs...",
+  "homepage": "https://github.com/Sh1n1x/react-native-app-intro#readme",
+  "license": "ISC",
+  "main": "AppIntro.js",
+  "name": "react-native-app-intro-v2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sh1n1x/react-native-app-intro.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.1.2"
+}
