@@ -71,7 +71,7 @@ const defaulStyles = {
   },
   paginationContainer: {
     position: 'absolute',
-    bottom: 80,//45
+    bottom: 70,//45
     left: 0,
     right: 0,
     flexDirection: 'row',
